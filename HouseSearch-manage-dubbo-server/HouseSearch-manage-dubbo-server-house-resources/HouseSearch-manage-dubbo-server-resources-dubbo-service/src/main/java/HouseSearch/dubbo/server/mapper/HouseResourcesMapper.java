@@ -7,4 +7,6 @@ import org.apache.ibatis.annotations.Mapper;
 // for dubbo framework
 @Mapper
 public interface HouseResourcesMapper extends BaseMapper<HouseResources> {
+
+
 }

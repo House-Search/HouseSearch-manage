@@ -95,7 +95,7 @@ public class HouseResources extends BasePojo {
     /**
      * 装修，1-精装，2-简装，3-毛坯
      */
-    private Boolean decoration;
+    private String decoration;
 
     /**
      * 配套设施， 如:1,2,3
